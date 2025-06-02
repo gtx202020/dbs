@@ -24,6 +24,6 @@ git commit -m "$commitMessage"
 echo ""
 
 echo "원격 저장소에 푸시:"
-git push origin main
+git push origin master
 
 echo "완료!"
