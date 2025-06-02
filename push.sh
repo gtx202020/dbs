@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Windows 줄 끝 문자 제거 (스크립트 실행 전 한 번만 해도 됩니다)
+# Windows 줄 끝 문자 제거 (스크립트 실행 전 한 번만 해도 됩니다) ###
 # dos2unix "$0" > /dev/null 2>&1
 
 echo "Git 상태 확인"
